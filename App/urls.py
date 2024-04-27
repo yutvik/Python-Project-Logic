@@ -5,4 +5,5 @@ urlpatterns = [
     path("contact/", views.Contact, name="contact"),
     path("about/", views.About, name="about"),
     
+    
 ]
